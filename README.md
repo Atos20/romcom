@@ -38,7 +38,7 @@ Creating and saving user generated images:
 
 ## Reflection
 ###
-ROMCOM is the product of [Orlando Murcio](/atos20) and [Greyson Elkins](/GreysonElkins) and it was completed as their first paired project in Module 1 at the Turing School of Software and Design. It's an excersize in JavaScript methods which interact with HTML by manipulating the DOM with data saved in the Data Model.
+ROMCOM is the product of [Orlando Murcio](https://www.github.com/atos20) and [Greyson Elkins](https://www.github.com/GreysonElkins) and it was completed as their first paired project in Module 1 at the Turing School of Software and Design. It's an excersize in JavaScript methods which interact with HTML by manipulating the DOM with data saved in the Data Model.
 
 The primary methods we used and learned from the project had to do with selecting elements from the HTML and CSS documents and manipulating them. We also developed an understanding of the data model and used it to save data and use it in multiple places; this was especially challenging as we worked through different iterations and worked to maintain SRP and DRY, but we feel we were successful in this regard. The "View Saved Covers" section also required us to write a small amount of HTML.
 
@@ -52,7 +52,7 @@ In our post-Covid time this project has been a breath of fresh air and much welc
 
 ## Resources
 ###
-[Turing School Examples](/turingschool-examples/romcom)    
+[Turing School Examples](https://www.github.com/turingschool-examples/romcom)    
 [MDN Web Docs](https://developer.mozilla.org/en-US/)
 
 ## Acknowledgments
