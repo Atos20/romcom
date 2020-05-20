@@ -11,13 +11,17 @@ The functionality to use the site is complete, however the site has not been tes
 ## Webite Screengrabs
 
 Generating random images:
-![image](https://user-images.githubusercontent.com/56229864/82391118-bb843200-99fd-11ea-904d-d58af18cf333.png)
+###
+Generating random images:
+![Generating random images:](https://github.com/Atos20/romcom/blob/master/assets/readme/random-covers.gif?raw=true)
 
 Saving and deleting saved images:
-![image](https://user-images.githubusercontent.com/56229864/82391130-c8088a80-99fd-11ea-9a60-e6daaae7e084.png)
+###
+![Saving and deleting saved images:](https://github.com/Atos20/romcom/blob/master/assets/readme/save%20and%20delete.gif?raw=true)
 
 Creating and saving user generated images:
-![image](https://user-images.githubusercontent.com/56229864/82391153-d9519700-99fd-11ea-92db-0d5e7e651958.png)
+###
+![Creating and saving user generated images](https://github.com/Atos20/romcom/blob/master/assets/readme/make-your-own.gif?raw=true)
 
 ## Using the App
 ###
