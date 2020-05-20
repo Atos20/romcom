@@ -52,7 +52,7 @@ In our post-Covid time this project has been a breath of fresh air and much welc
 
 ## Resources
 ###
-[Turing School Examples](github.com/turingschool-examples/romcom)
+[Turing School Examples](github.com/turingschool-examples/romcom)    
 [MDN Web Docs](https://developer.mozilla.org/en-US/)
 
 ## Acknowledgments
