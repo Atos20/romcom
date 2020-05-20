@@ -22,7 +22,7 @@ Creating and saving user generated images:
 ## Using the App
 ###
 * go to [ROMCOM.com](https://atos20.github.io/romcom/)
-* click on the navigation buttons to move around the site and save and create images
+* click on the navigation buttons to move around the site to save and create images
 * click on "Make Your Own Cover" and fill out the form with a link to any image, your own title and taglines and click "Make My Cover" to see your next best seller
 * double click covers in the "View Saved Covers Section" if you want to remove it
 
