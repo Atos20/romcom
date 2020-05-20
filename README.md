@@ -10,13 +10,13 @@ The functionality to use the site is complete, however the site has not been tes
 
 ## Webite Screengrabs
 
-Generating random images:
+Generating random images:  
 ![Generating random images:](https://github.com/Atos20/romcom/blob/master/assets/readme/random-covers.gif?raw=true)
 
-Saving and deleting saved images:
+Saving and deleting saved images:  
 ![Saving and deleting saved images:](https://github.com/Atos20/romcom/blob/master/assets/readme/save%20and%20delete.gif?raw=true)
 
-Creating and saving user generated images:
+Creating and saving user generated images:  
 ![Creating and saving user generated images](https://github.com/Atos20/romcom/blob/master/assets/readme/make-your-own.gif?raw=true)
 
 ## Using the App
